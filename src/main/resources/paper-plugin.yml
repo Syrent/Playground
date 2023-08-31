@@ -1,0 +1,9 @@
+name: '${name}'
+version: '${version}'
+main: ir.syrent.playground.Playground
+api-version: '1.19'
+prefix: Playground
+authors: [ Syrent ]
+description: '${description}'
+website: syrent.ir
+folia-supported: true
